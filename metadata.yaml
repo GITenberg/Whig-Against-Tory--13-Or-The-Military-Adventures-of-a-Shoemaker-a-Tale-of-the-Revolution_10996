@@ -1,5 +1,8 @@
 _repo: Whig-Against-Tory--13-Or-The-Military-Adventures-of-a-Shoemaker-a-Tale-of-the-Revolution_10996
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Unknown
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/browse/authors/a#a216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10996#Whig-Against-Tory--13-Or-The-Military-Adventures-of-a-Shoemaker-a-Tale-of-the-Revolution
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
